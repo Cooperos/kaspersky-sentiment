@@ -1,0 +1,4 @@
+.env
+.venv
+rubert_finetuned
+*.xlsx

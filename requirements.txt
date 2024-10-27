@@ -1,0 +1,16 @@
+pandas
+scikit-learn
+tensorflow
+tf-keras
+jupyter
+notebook
+transformers
+torch
+tqdm
+python-dotenv
+pymorphy3
+nltk
+gensim
+openpyxl
+pillow<9.0.0
+torchvision
